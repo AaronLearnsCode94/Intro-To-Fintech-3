@@ -23,4 +23,4 @@ I chose Fintech as a career path because I believe it is a ever growing and expa
 
 "Success is not final, failure is not fatal: it is the courage to continue that counts".
 
-![Images.ElonMusk.jpeg]
+![Images/ElonMusk.jpeg]
