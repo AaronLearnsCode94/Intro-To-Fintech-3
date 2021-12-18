@@ -12,3 +12,15 @@ My career goals are to establish a business in the FinTech world, or ultimately 
 *Why did you choose Fintech as a career path ?*
 
 I chose Fintech as a career path because I believe it is a ever growing and expanding space always presenting new opportunities.
+
+[Code](Code)
+
+[Data](Data)
+
+[Images](Images)
+
+[References](References)
+
+"Success is not final, failure is not fatal: it is the courage to continue that counts".
+
+![Images.ElonMusk.jpeg]
