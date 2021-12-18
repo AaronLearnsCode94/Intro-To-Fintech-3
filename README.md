@@ -9,7 +9,7 @@ My Name is Aaron Simpson, I am a 27 years old, currently completing a Fintech co
 
 My career goals are to establish a business in the FinTech world, or ultimately be employable with a high level skill set.
 
-*Why did you choose Fintech as a career path ?*
+*Why did you choose Fintech as a career path?*
 
 I chose Fintech as a career path because I believe it is a ever growing and expanding space always presenting new opportunities.
 
@@ -23,5 +23,5 @@ I chose Fintech as a career path because I believe it is a ever growing and expa
 
 "Success is not final, failure is not fatal: it is the courage to continue that counts".
 
-! [ElonMusk.jpeg](ElonMusk.jpeg)
+![ElonMusk.jpg](Images/ElonMusk.jpg)
 
